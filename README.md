@@ -14,4 +14,4 @@
 * mobile layout
 
 ##Screenshots
-[image]https://cloud.githubusercontent.com/assets/955730/12968343/699452fa-d025-11e5-98f2-f249bb9122bf.png
+[image](https://cloud.githubusercontent.com/assets/955730/12968343/699452fa-d025-11e5-98f2-f249bb9122bf.png)
